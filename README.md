@@ -1,7 +1,4 @@
-
-
 Hi!! I´m Franco :wave:
-
 
 I am trying to become in a Self taught web developer 
 
@@ -11,7 +8,7 @@ I am trying to become in a Self taught web developer
 - 💞️ I’m looking to collaborate on Start-Ups, Foundations and entrepreneurs.
 - 📫 How to reach me?
 
-
+💫 About Me:
 
 
 
