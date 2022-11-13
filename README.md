@@ -1,3 +1,8 @@
+
+
+Hi!! I´m Franco :wave:
+
+
 I am trying to become in a Self taught web developer 
 
 - 👋 Hi, I’m Franco-Developer
