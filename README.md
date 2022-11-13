@@ -12,10 +12,6 @@ I am trying to become in a Self taught web developer
 - 📫 How to reach me?
 
 
-- Languages and Tools...
-html csharp js python react vue chrome cloud datascience aws npm gcp bash vscode
-
-
 
 
 
