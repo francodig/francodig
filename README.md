@@ -1,3 +1,5 @@
+I am trying to become in a Self taught web developer 
+
 - 👋 Hi, I’m Franco-Developer
 - 👀 I’m interested in Front-End, Web Design, Finance and Blockchain.
 - 🌱 I’m currently learning Javascript, React JS and Solidity.
