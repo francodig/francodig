@@ -7,9 +7,11 @@ I am trying to become in a Self taught web developer
 - 🌱 I’m currently learning Javascript, React JS and Solidity.
 - 💞️ I’m looking to collaborate on Start-Ups, Foundations and entrepreneurs.
 - 📫 How to reach me?
+  You can send an email to: francodignani@hotmail.com
+  You can reach out to me via LinkedIn's DM --> www.linkedin.com/in/francodignani
 
 💫 About Me:
-
+Passionate about economics and finance, driven by the revolutionary potential of Web3 and blockchain technology. Embarking on a journey to comprehend the Web2 ecosystem as a full-stack developer, paving the way towards becoming a skilled Web3 programmer.
 
 
 
